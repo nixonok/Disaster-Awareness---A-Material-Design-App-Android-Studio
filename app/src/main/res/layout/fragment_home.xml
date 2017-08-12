@@ -1,0 +1,23 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.iblacksheep.nixonok.disasterawareness.activity.HomeFragment">
+
+
+        <ListView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/disasterListView"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentStart="true"
+            android:layout_marginStart="42dp"
+            android:layout_marginTop="20dp"
+            android:textStyle="bold"
+            android:textSize="35sp"
+            android:gravity="center_horizontal"
+            android:textColor="#9E9E9E"
+            />
+
+    </RelativeLayout>

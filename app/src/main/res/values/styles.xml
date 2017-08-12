@@ -1,0 +1,22 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="MeterialDesignByOK" parent="MeterialDesignByOK.Base">
+
+        <!-- Customize your theme here. -->
+    </style>
+
+    <style name="MeterialDesignByOK.Base" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="windowNoTitle">true</item>
+        <item name="windowActionBar">false</item>
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="android:windowBackground">@color/background</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:state_pressed">@color/colorAccent</item>
+        <item name="android:colorPressedHighlight">@color/colorAccent</item>
+
+
+    </style>
+
+</resources>

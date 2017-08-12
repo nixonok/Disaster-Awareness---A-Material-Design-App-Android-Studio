@@ -1,0 +1,111 @@
+<resources>
+    <string name="app_name">"Disaster Awareness "</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="earthQuakeHeading">What to do in an earthquake :</string>
+    <string name="earthQuakeText">There are number of things you can do to stay safe during an earthquake. Lets Take a Look at Some Situations and Most Effective Things you can do if you are in any Situation like these.</string>
+
+    <string name="earthQuakeHeading2">If you are indoors during an earthquake :</string>
+    <string name="earthQuakeText2">Ensure you do the following if you are indoors during an earthquake:
+
+\n\n1.Drop to the ground; take COVER by getting under a sturdy table or other piece of furniture; and HOLD ON until the shaking stops. If there isn’t a table or desk near you, cover your face and head with your arms and crouch in an inside corner of the building.
+"
+                    "\n2.Stay away from glass, windows, outside doors and walls, and anything that could fall, such as lighting fixtures or furniture."
+                    "\n3.Stay in bed if you are there when the earthquake strikes. Hold on and protect your head with a pillow, unless you are under a heavy light fixture that could fall. In that case, move to the nearest safe place."
+                    "\n4.Do not use a doorway except if you know it is a strongly supported, load-bearing doorway and it is close to you. Many inside doorways are lightly constructed and do not offer protection."
+                    "\n5.Stay inside until the shaking stops and it is safe to go outside. Do not exit a building during the shaking. Research has shown that most injuries occur when people inside buildings attempt to move to a different location inside the building or try to leave."
+                    "\n6.DO NOT use the elevators."
+                    "
+\n7.Be aware that the electricity may go out or the sprinkler systems or fire alarms may turn on.</string>
+
+
+    <string name="earthQuakeHeading3">If you are outdoors during an earthquake :</string>
+    <string name="earthQuakeText3">Ensure you do the following if you are outdoors during an earthquake:"
+                    "\n1.If Its an Open Ground and No Big Buildlings Nearby Then, Stay there."
+                    "\n2.If You are Surrounded By Big Buildlings Try to Move away from buildings, streetlights, and utility wires."
+                    "
+
+\n3.Once in the open, stay there until the shaking stops. The greatest danger exists directly outside buildings, at exits and alongside exterior walls.</string>
+
+    <string name="earthQuakeHeading4">If you are trapped under debris :</string>
+    <string name="earthQuakeText4">Ensure you do the following if you are trapped under debris during or after an earthquake: "
+                    "\n1.Do not light a match."
+                    "\n2.Do not move around or kick up dust."
+                    "\n3.Cover your mouth with a handkerchief or clothing."
+                    "
+
+\n4.Tap on a pipe or wall so rescuers can locate you. Use a whistle if one is available. Shout only as a last resort. Shouting can cause you to inhale dangerous amounts of dust.</string>
+
+
+    <string name="stormHeading">What to do in a Storm :</string>
+    <string name="stormText">There are a number of things that you can do to make sure you and your property stay safe during storms.Lets Take a Look at Some Situations and Most Effective Things you can do if you are in any Situation like these.\n</string>
+
+    <string name="stormHeading2">What to do before the storm :</string>
+
+    <string name="stormText2">Ensure you do the following before a severe storm arrives :\n\n1.Check that loose items such as outdoor settings, umbrellas and trampolines are safely secured.\n\n2.If it is safe to do so, check gutters, downpipes and drains are not blocked.\n\n3.Park your car undercover and away from trees.</string>
+
+
+    <string name="stormHeading3">What to do during the storm :</string>
+    <string name="stormText3">Ensure you do the following during a severe storm :\n\n1.Stay indoors and away from windows.\n\n2.If outdoors, shelter away from drains, gutters, creeks and waterways.\n\n3.Be prepared for power outages.\n\n4.Floodwater is dangerous – never drive, walk or ride through floodwater.\n\n5.Floodwater is toxic – never play or swim in floodwater.</string>
+
+    <string name="stormHeading4">What to do after the storm :</string>
+    <string name="stormText4">Ensure you do the following after a severe storm :\n\n1.Check your home and property for damage.\n\n2.Keep clear of damaged buildings, powerlines and trees.\n\n3.Be aware of road hazards such as floodwater, debris and damaged roads or bridges.\n\n4.Do not drive through affected areas unless it is necessary.</string>
+
+    <string name="floodHeading">What to do during Floods :</string>
+    <string name="floodText">There are a number of things that you can do to make sure you and your property stay safe during flooding. </string>
+
+    <string name="floodHeading2">What to do during minor flooding :</string>
+    <string name="floodText2">Use the following guidelines to stay safe during minor flooding :\n\n1.Stay Informed – monitor local conditions and be aware of the situation\n\n2.Farmers should prepare to move machinery and livestock to higher ground.\n\n3.Tune into your emergency broadcasters: ABC Local Radio, commercial radio and designated community radio stations, or SKY NEWS Television.\n\n4.Ensure your family members and neighbours are aware of the situation.\n\n5.Floodwater is dangerous – never drive, walk or ride through floodwater.\n\n5.Floodwater is toxic – never play or swim in floodwater.</string>
+
+    <string name="floodHeading3">What to do during moderate flooding :</string>
+    <string name="floodText3">Use the following guidelines to stay safe during moderate flooding :\n\n1.Act Quickly – conditions can change rapidly.\n\n2.Farmers should move machinery and livestock to higher ground if it is still safe to do so.\n\n3.Tune into your emergency broadcasters: ABC Local Radio, commercial radio and designated community radio stations, or SKY NEWS Television.\n\n4.If you are likely to become isolated, make sure you have enough food, drinking water, medications and pet food.\n\n5.Floodwater is dangerous – never drive, walk or ride through floodwater.\n\n6.Floodwater is toxic – never play or swim in floodwater.</string>
+
+    <string name="floodHeading4">What to do during major flooding :</string>
+    <string name="floodText4">Use the following guidelines to stay safe during major flooding :\n\n1.Act Quickly – conditions can change rapidly.\n\n2.Be prepared to evacuate if advised by authorities.\n\n3.If you are likely to become isolated, make sure that you have enough food, water, medication and pet food, and be aware that you may need to live without power, water and sewerage.\n\n4.Raise belongings by placing them on tables, beds and benches, or move them to higher ground.\n\n5.Tune into your emergency broadcasters: ABC Local Radio, commercial radio and designated community radio stations, or SKY NEWS Television.\n\n6.Block toilets, household drains, sinks and plugs to stop sewerage backflow.\n\n7.Floodwater is dangerous – never drive, walk or ride through floodwater.\n\n7.Floodwater is toxic – never play or swim in floodwater.</string>
+
+    <string name="floodHeading5">What to do if you need to evacuate :</string>
+    <string name="floodText5">Use the following guidelines during an evacuation :\n\n1.Act Now – take immediate precautions to protect your life and property\n\n2.Raise belongings by placing them on tables, beds and benches, or move them to higher ground.\n\n3.Collect together medicines, important documents, mementos, photos and pets and take them with you when you evacuate.\n\n4.Take three days’ supply of clothing and medications with you.\n\n5.Turn off electricity and gas at the mains and lock you doors and windows when you evacuate.\n\n6.Remaining in your home or business during flooding is dangerous and may put your life at risk.</string>
+
+    <string name="tsunamiHeading">What to do in a tsunami :</string>
+    <string name="tsunamiText">Here are a number of things that you can do to make sure you stay safe during a tsunami.</string>
+
+    <string name="tsunamiHeading2">What to do during a marine tsunami :</string>
+    <string name="tsunamiText2">Ensure that you do the following during a marine tsunami :\n\n1.Get out of the water and move away from the immediate waters edge of harbours, coastal estuaries, rock platforms, and beaches.\n\n2.Boats in harbours, estuaries and in shallow coastal water should return to shore - secure your boat and move away from the waterfront.\n\n3.Vessels already at sea should stay offshore in deep water until further advised.\n\n4.Do not go to the coast to watch the tsunami, as there is the possibility of dangerous, localised land inundation of the immediate foreshore.\n\n5.Check that your neighbours are aware of the situation.</string>
+
+    <string name="tsunamiHeading3">What to do during a land Tsunami :</string>
+    <string name="tsunamiText3">Ensure that you do the following during a land tsunami:\n\n1.Go to higher ground, at least ten metres above sea level, or if possible move at least one kilometre away from all beaches and the waters edge of harbours and coastal estuaries.\n\n2.Take only essential items that you can carry including important papers, family photographs and medical needs.\n\n3.It may be in your own interests to walk to safety if possible to avoid traffic jams.\n\n4.If you cannot leave the area take shelter in the upper storey of a sturdy brick or concrete multi-storey building.\n\n5.Do not go to the coast to watch the tsunami, as there is the possibility of dangerous, localised land inundation.\n\n6.Tune into your emergency broadcasters - ABC Local Radio, commercial radio and designated community radio stations, or SKY NEWS Television</string>
+
+    <string name="fireHeading">What to do if there’s a fire :</string>
+    <string name="fireText">If there’s a fire, you need to act quickly. Make sure you are prepared and that everyone in your house knows exactly what to do. \n\nAlert everyone – make sure everyone in the house knows about the fire – shout and get everyone together. Get everyone out – you should have an escape route planned that everyone in your house is familiar with.Remember :\n\n1.Dont delay to save valuables or look for pets.\n\n2.Dont investigate the fire.\n\n3.Crawl on the floor if there’s smoke – the air is cleaner near the floor.\n\n4.On the floor, put your nose as low as possible – remember, smoke is toxic and can kill you.\n\n5.As you go out, only open the doors you need to and close any open doors you can to slow the spread of the fire.\n\n6.Feel doors with the back of your hand before you open them, if they’re warm, don’t open them – the fire is on the other side.\n\n7.If you’re escaping with others, stay together if you can.</string>
+
+    <string name="fireHeading2">What to do if your clothes catch fire :</string>
+    <string name="fireText2">Ensure that you do the following if fire catches your cloth :\n\n1.Dont run around – you will fan the flames and make them burn faster.\n\n2.Lying down makes it harder for the fire to spread and reduces the effect of flames on your face and head – flames burn upwards.\n\n3.Smother the flames – cover the flames with heavy material, like a coat or blanket; this blocks the fires supply of oxygen.\n\n4.Roll around – rolling smothers the flames.</string>
+
+    <string name="fireHeading3">What to do when you can’t get out by your escape route :</string>
+    <string name="fireText3">Ensure you do the following If your escape route is blocked:\n\n1.If you are on the ground floor, go out of a window – throw bedding or cushions onto the ground outside to break your fall.\n\n2.if you cant open the window, use a heavy object to break it – cover any jagged edges with clothing, a towel or a blanket.\n\n3.Lower children as far as possible before letting them drop – get an adult to break their fall if you can.\n\n4.lower yourself by your arms from the window ledge before dropping.\n\n5.If you cant get out, get everyone into one room then Do These : \n\n>>choose a room with a window, if you can.\n\n>>put cushions, towels or bedding at the bottom of the door to block smoke.\n\n>>open the window and call for help.\n\n>>think about which room might be best for this – you need a window that can be opened and, if possible, a phone for calling The Emergency Number Of Your Country.[Mostly 911]</string>
+
+    <string name="fireHeading4">Don’t go back in :</string>
+    <string name="fireText4">You should find somewhere safe to wait near the building. If there is someone still inside wait for the Fire and Rescue Service to arrive; you can tell them about the person and they will be able to find them quicker than you. \n\nIf you go back into the building, you will slow down the firefighters efforts to rescue anyone else missing – and put your own life in danger.</string>
+
+    <string name="fireHeading5">What to do if you live in a high-rise flat :</string>
+    <string name="fireText5">If you live in a block of flats, you should consider that a fire could start directly outside your flat, or in the stairwell.\n\nSee ‘Planning a safe escape for more information on planning an escape – it includes specific guidance for plans for high-rises. If a fire starts in your flat or the stairwell and you can’t get out : \n\n1.Get everyone into a room with a window – put cushions, bedding, or clothes around the bottom of the door to block smoke.\n\n2.Open the window – if you feel in serious danger, wave a sheet out of the window so the firefighters know you’re there.\n\n3.If the fire is directly outside your flat, seal your front door with tape, bedding or clothes, close any ventilators.\n\n4.If your front door becomes hot, wet it down.</string>
+
+
+    <string name="nav_item_home">Home</string>
+    <string name="nav_item_rate_me">Rate Me</string>
+    <string name="nav_item_about">About</string>
+    <string name="drawer_open">Open</string>
+    <string name="drawer_close">Close</string>
+
+    <string-array name="nav_drawer_labels">
+        <item>@string/nav_item_home</item>
+        <item>@string/nav_item_rate_me</item>
+        <item>@string/nav_item_about</item>
+    </string-array>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_main2">Main2Activity</string>
+</resources>
